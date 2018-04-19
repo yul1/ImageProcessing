@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pic_show</string>
+    <string name="edit">编辑</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="crop">裁剪</string>
+    <string name="rotate">旋转</string>
+    <string name="rotate_left">向左</string>
+    <string name="rotate_right">向右</string>
+    <string name="fanzhuan_left_right">左右</string>
+    <string name="fanzhuan_top_bottom">上下</string>
+    <string name="reverse_transform">反转</string>
+    <string name="resize">缩放</string>
+    <string name="tone">调色</string>
+    <string name="saturation">饱和度</string>
+    <string name="lightness">亮度</string>
+    <string name="contrast">色相</string>
+    <string name="frame">边框</string>
+    <string name="filter">滤镜</string>
+    <string name="soften">柔化</string>    
+    <string name="blur">模糊</string>    
+    <string name="sculpture">浮雕</string>  
+    <string name="sharpen">锐化</string>    
+    <string name="rememberpast">怀旧</string>    
+    <string name="negative">负片</string>    
+    <string name="sketch">素描</string>  
+    <string name="blackandwhite">黑白</string> 
+    <string name="feather">羽化</string> 
+    <string name="comic">连环画</string> 
+    <string name="lineGrey">线性灰度</string>    
+    <string name="running_face_detection">请稍等</string>
+    <string name="multiface_crop_help">轻点一张脸开始裁剪</string>
+    <string name="saving_image">正在保存照片…</string>
+    <string name="choose_img">图片处理</string>
+    <string name="take_img">拍摄一张照片</string>
+    <string name="load_failure">图片加载失败</string>
+    <string name="resize_one_to_two">放大2倍</string>
+    <string name="resize_one_to_four">放大4倍</string>
+    <string name="resize_two_to_one">缩小2倍</string>
+    <string name="resize_four_to_one">缩小4倍</string>
+    <string name="save_bitmap">正在保存图片。。。</string>
+    <string name="no_found">没有找到图片</string>
+    <string name="handling">处理中，请稍候…</string>
+    <string name="_sdcard_boohee_">SD卡…</string>
+    <string name="_sdcard_myimage_">/sdcard/myImage/</string>
+    
+   
+</resources>
